@@ -1,5 +1,10 @@
 ### Thalles Dreissig
 
+📧: thallesr.dreissig@gmail.com <br>
+ 📱:  (45) 99860-6268 <br>
+✔️: Florianópolis-SC <br>
+💻: Sou estudante na área de desenvolvimento de sistemas<br>
+
 <div align="center">
   <a href="https://github.com/thalles-dreissig20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalles-dreissig20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
