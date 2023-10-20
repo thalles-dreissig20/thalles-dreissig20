@@ -5,7 +5,7 @@
 ✔️: Florianópolis-SC <br>
 💻: Programador<br>
 
-<div style="display: flex; gap: 5;">
+<div style="display: flex;">
   <div style="display: inline_block"><br>
    <img text-align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img text-align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
