@@ -15,7 +15,7 @@
 <h1 align="center">hey there 👋</h1>
 
 
-<p align="left">- 👩‍💻I'm Thalles Dreissig;<br>- 🗺️from Florianópolis-SC;<br>- 🔭 I'm developer;<br></p>
+<p align="left">- 👩‍💻I'm Thalles Dreissig;<br>- 🗺️I'm from Florianópolis-SC;<br>- 🔭 I'm developer;<br></p>
 
 ###
 
