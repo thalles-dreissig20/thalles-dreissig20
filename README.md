@@ -15,7 +15,7 @@
 <h1 align="center">hey there 👋</h1>
 
 
-<p align="left">- 👩‍💻I'm Thalles Dreissig;<br>- 🗺️I'm from Florianópolis-SC;<br>- 🔭 I'm developer;<br></p>
+<p align="left">- 👩‍💻 I'm Thalles Dreissig;<br>- 🗺️ I'm from Florianópolis-SC;<br>- 🔭 I'm developer;<br></p>
 
 ###
 
@@ -33,6 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
 </div>
 
 
