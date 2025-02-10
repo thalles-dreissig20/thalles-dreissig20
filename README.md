@@ -15,15 +15,15 @@
 <h1 align="center">hey there 👋</h1>
 
 
-<p align="left">- 👩‍💻 I'm Thalles Dreissig;<br>- 🗺️ I'm from Florianópolis-SC;<br>- 🔭 I'm developer;<br></p>
+<p align="center"> 👩‍💻 I'm Thalles Dreissig<br> 🗺️ I'm from Florianópolis-SC<br> 🔭 I'm developer<br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
