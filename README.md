@@ -38,5 +38,5 @@
 
 ###
 <p align="center">
-  <img src="atardecer.jpg" alt="uml do sistema" />
+  <img src="atardecer.jpg" alt="img" />
 </p>
