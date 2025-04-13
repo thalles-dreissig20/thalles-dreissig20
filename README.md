@@ -35,22 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalles-dreissig20&theme=omni&show_icons=true" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thalles-dreissig20.thalles-dreissig20&"  />
-</div>
-
-###
-
-
- 
-
