@@ -5,10 +5,10 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 
-<p align="center"> 👩‍💻 I'm Thalles Dreissig<br> 🗺️ I'm from Florianópolis-SC<br> 🔭 I'm developer<br></p>
+<p align="center">I'm Thalles Dreissig<br> I'm from Florianópolis-SC<br>I'm developer<br></p>
 
 <div align="center">
   <a href = "mailto:thallesr.dreissig@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">Language and tools</h3>
 
 ###
 
